@@ -31,3 +31,4 @@ addpath(genpath("path/to/repo"));
 savepath; % optional
 vna = litevna.LiteVNA("/dev/ttyACM<num>", 115200);
 ```
+
