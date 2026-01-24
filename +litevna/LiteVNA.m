@@ -8,7 +8,7 @@ classdef LiteVNA < handle
 %
 % Example:
 %   % Open device and print info
-%   vna = LiteVNA('/dev/ttyACM0', 115200); % On Windows use 'COM<num>'
+%   vna = litevna.LiteVNA('/dev/ttyACM0', 115200); % On Windows use 'COM<num>'
 %   info = vna.getDeviceInfo() % Display info as specified in the manual
 %   
 %   % Configure a sweep: 5.70-6.30 GHz, 401 pts, avg 10
