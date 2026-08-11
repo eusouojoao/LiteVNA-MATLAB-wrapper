@@ -20,8 +20,7 @@ LiteVNA info: https://www.zeenko.tech/litevna and https://groups.io/g/liteVNA/
 ## Install
 
 ### MATLAB Add-On (recommended)
-If you have a `.mltbx` release, install it by double-clicking the file (or use **Add-Ons -> Install from File**). 
-After install, `litevna` is on the MATLAB path.
+Cf. https://www.mathworks.com/help/matlab/add-ons.html
 
 ### Manual (from source)
 1. Clone or download this repo.
